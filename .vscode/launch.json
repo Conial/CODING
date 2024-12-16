@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "A20241216_2",
+      "request": "launch",
+      "mainClass": "A20241216_2",
+      "projectName": "코딩_6ba6fb54"
+    },
+    {
+      "type": "java",
+      "name": "A20241216",
+      "request": "launch",
+      "mainClass": "A20241216",
+      "projectName": "코딩_6ba6fb54"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "코딩_6ba6fb54"
+    },
+    {
+      "type": "java",
       "name": "Hello",
       "request": "launch",
       "mainClass": "JAVA.Hello",
