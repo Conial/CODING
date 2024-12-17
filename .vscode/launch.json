@@ -3,6 +3,7 @@
   "configurations": [
     {
       "type": "java",
+<<<<<<< HEAD
       "name": "C",
       "request": "launch",
       "mainClass": "C",
@@ -17,6 +18,8 @@
     },
     {
       "type": "java",
+=======
+>>>>>>> 17ccaab38c0f62a082a82904e6a4c5ce7a6a844f
       "name": "A20241216_3",
       "request": "launch",
       "mainClass": "A20241216_3",
