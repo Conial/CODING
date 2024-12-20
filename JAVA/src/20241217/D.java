@@ -8,3 +8,5 @@ public class D {
         System.out.printf("\n전화: %s-%s-%s", tel1, tel2, tel3);
     }
 }
+
+// 혼공자 문제
