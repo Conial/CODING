@@ -20,7 +20,7 @@ public class F {
         System.out.print("전번: ");
         Phone = Integer.parseInt(scanner.nextLine());
         
-        System.out.println(Name);
+        System.out.println(Name);a
         System.out.println(Front);
         System.out.println("0" + (Phone / 100000000) + "-" + ((Phone % 1000000000) / 10000) + "-" + ((Phone % 100000000) % 10000));
     }
