@@ -1,3 +1,4 @@
+package J241217;
 import java.io.IOException;
 
 public class B {

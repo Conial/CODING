@@ -1,3 +1,4 @@
+package J241217;
 //혼공자 91p
 
 public class A {

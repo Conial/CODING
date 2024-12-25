@@ -1,3 +1,4 @@
+package J241220;
 import java.util.Scanner;
 
 public class C {

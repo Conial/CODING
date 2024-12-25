@@ -1,3 +1,4 @@
+package J241217;
 public class D {
     public static void main(String[] args) {
         String name = "김자바";
