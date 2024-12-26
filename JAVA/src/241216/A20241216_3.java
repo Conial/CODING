@@ -1,3 +1,4 @@
+package j241216;
 public class A20241216_3 {
     public static void main(String[] args) {
         String YOON = "2.82";

@@ -1,3 +1,4 @@
+package j241216;
 public class A20241216 {
 
     public static void main(String[] args) {

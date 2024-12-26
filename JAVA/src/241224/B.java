@@ -1,4 +1,5 @@
 package J241224;
+
 public class B {
     public static void main(String[] args) {
         int X = 19;

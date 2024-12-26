@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "C",
+      "request": "launch",
+      "mainClass": "C",
+      "projectName": "코딩_6ba6fb54"
+    },
+    {
+      "type": "java",
+      "name": "A",
+      "request": "launch",
+      "mainClass": "j241225.A",
+      "projectName": "코딩_6ba6fb54"
+    },
+    {
+      "type": "java",
+      "name": "B",
+      "request": "launch",
+      "mainClass": "J241224.B",
+      "projectName": "코딩_6ba6fb54"
+    },
+    {
+      "type": "java",
+      "name": "A",
+      "request": "launch",
+      "mainClass": "J241225.A",
+      "projectName": "코딩_6ba6fb54"
+    },
+    {
+      "type": "java",
       "name": "A",
       "request": "launch",
       "mainClass": "A",
